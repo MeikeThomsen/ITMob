@@ -11,4 +11,79 @@
     <string name="login_failed">"Login failed"</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="array_Muskelgruppe">
+        <item>Muskelgruppe</item>
+        <item>Rücken</item>
+        <item>Brust</item>
+        <item>Beine</item>
+        <item>Arme</item>
+        <item>Bauch</item>
+        <item>Schulter</item>
+    </string-array>
+    <string-array name="array_default_Uebungen">
+        <item>Wähle eine Muskelgruppe aus</item>
+    </string-array>
+    <string-array name="array_rücken">
+        <item>Rudern</item>
+        <item>Latziehen</item>
+        <item>Klimmzüge</item>
+        <item>Butterfly Reverse</item>
+    </string-array>
+    <string-array name="array_arm">
+        <item>Bizeps-Curls</item>
+        <item>Dips</item>
+        <item>Trizepsdrücken</item>
+    </string-array>
+    <string-array name="array_bauch">
+        <item>Knieheben</item>
+        <item>Beinheben</item>
+        <item>Buchrolle</item>
+        <item>Mountain Climber</item>
+        <item>Russian Twist</item>
+    </string-array>
+    <string-array name="array_bein">
+        <item>Kniebeugen</item>
+        <item>Beinpresse</item>
+        <item>Beinbeuger</item>
+        <item>Ausfallschritte</item>
+        <item>Beinbeuger</item>
+    </string-array>
+    <string-array name="array_brust">
+        <item>Bankdrücken</item>
+        <item>Liegestütz</item>
+        <item>Cable Fly</item>
+        <item>Brustpresse</item>
+    </string-array>
+    <string-array name="array_schulter">
+        <item>Frontheben</item>
+        <item>Arnold-Press</item>
+        <item>Schulterdrücken</item>
+        <item>Military Press</item>
+    </string-array>
+
+    <string name="impressum">
+<h1>Impressum</h1><p>SRKM UG (haftungsbeschänkt)<br />
+Nibelungen Platz 1<br />
+60318
+Frankfurt am Main<br />
+E-Mail info@srkm.de<br />
+Tel 015754488645<br />
+Fax <br /></p>
+Geschäftsführer
+<p>Khalid Butt, Sana Hussein, Rieaz Rostami, Meike Thomsen<br /></p><p>Registergericht: Amtsgericht Frankfurt am Main ,  HRB786</p><p>Ust-IdNr: DE123456786</p><strong>
+Haftung für Inhalte</strong><p>
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit,
+Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten
+nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter
+jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen
+oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen
+Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt
+der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
+Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p><strong>
+Datenschutz</strong><p>
+Die Nutzung unserer Webseite ist in der Regel ohne eine Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adresse) erhoben werden, erfolgt dies – soweit es möglich ist– immer auf freiwilliger Basis. Wir geben Ihre Daten ohne Ihre ausdrückliche Zustimmung nicht an Dritte weiter. Außerdem weisen wir Sie darauf hin, dass die Datenübertragung im Internet (wie beispielsweise bei der Kommunikation über E-Mail) Sicherheitslücken aufweisen kann. Denn ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Wir widersprechen hiermit ausdrücklich der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien. Die Betreiber dieser Seiten behalten sich ausdrücklich vor, im Fall der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, rechtliche Schritte einzuleiten.</p><i><a href="http://www.agb.de">Gratis Impressum</a> von agb.de</i></string>
+
+
 </resources>
